@@ -28,8 +28,8 @@ npm install
 npm run dev
 ```
 
-> **Note**: Place `muril_best.pt` in `Backend/models/` before running.  
-> Download from: [Google Drive link]
+> **Note**: Place `muril_best.pt` in `Backend/models/` before running.
+> Download from: [muril_best.pt](https://drive.google.com/file/d/1qctTz5xFjXIZ5HP-gxglstOtSk_tV27H/view?usp=sharing)
 
 ## ✨ Features
 - Upload Hindi `.txt` or `.xml` files
