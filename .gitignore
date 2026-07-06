@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+
+# Model file (too large for GitHub)
+Backend/models/muril_best.pt
+
+# Node
+Frontend/node_modules/
+Frontend/dist/
+
+# Uploads
+Backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
